@@ -1,0 +1,1 @@
+This was my first attempt in applying Convolutional Neural Network (CNN) to work. This tutorial tries to explain basic concepts in CNN using Keras API.
